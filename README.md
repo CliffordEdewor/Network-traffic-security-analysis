@@ -2,9 +2,9 @@
 This project examines the traffic-handling and security differences between hubs and switches using Cisco Packet Tracer. It highlights how hubs broadcast packets to every connected device, while switches forward frames intelligently using MAC address learning. The project demonstrates why switches improve confidentiality, performance, and protection against packet sniffing.
 
 ## 🎯 Objectives
-- Demonstrate how hubs broadcast all packets to every connected device.
-- Show how switches learn MAC addresses and forward frames intelligently.
-- Analyze packet movement using Cisco Packet Tracer simulation mode.
+- Demonstrate how hubs broadcast all packets to every connected device.  
+- Show how switches learn MAC addresses and forward frames intelligently.  
+- Analyze packet movement using Cisco Packet Tracer simulation mode.  
 - Explain cybersecurity implications such as packet sniffing risks.
 - Introduce basic configurations including IP addressing and interface control.
 
