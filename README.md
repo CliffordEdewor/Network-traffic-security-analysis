@@ -49,3 +49,9 @@ src="images/IoT_Slide4_Solutions.png" alt="Proposed Strategies for Mitigating Io
 </p>  
 
 📄 [**Download Full IoT Security Presentation (PDF)**](assets/IoT_Security_Presentation.pdf)
+
+## 📚 Use Case
+This project was developed as part of an academic research initiative under the **Computer Science Department** at the **Petroleum Training Institute (PTI), Nigeria**. It demonstrates the application of layered security strategies to protect IoT ecosystems across device, network, and data layers.
+
+## 📄 License
+For educational demonstration and academic research.
