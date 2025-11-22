@@ -4,10 +4,6 @@ This project examines the traffic-handling and security differences between hubs
 ## 🎯 Objectives
 - Demonstrate how hubs broadcast all packets to every connected device.
 - Show how switches learn MAC addresses and forward frames intelligently.
-
-  
-- Demonstrate how hubs broadcast all packets to every connected device.
-- Show how switches learn MAC addresses and forward frames intelligently.
 - Analyze packet movement using Cisco Packet Tracer simulation mode.
 - Explain cybersecurity implications such as packet sniffing risks.
 - Introduce basic configurations including IP addressing and interface control.
