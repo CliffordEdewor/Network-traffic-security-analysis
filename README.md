@@ -1,15 +1,12 @@
 # Network-traffic-security-analysis
-A practical cybersecurity project analyzing hub vulnerabilities versus switch intelligence using Cisco Packet Tracer. Includes topology design, MAC table behavior, traffic simulation, and security implications for modern networks.
-
-# IoT Security: Mitigating Cybersecurity Threats in Connected Devices
-
-This project explores the security challenges of Internet of Things (IoT) ecosystems and demonstrates practical strategies to mitigate risks. It focuses on device-level, network-level, and data security controls to strengthen resilience against cyber threats.
+This project examines the traffic-handling and security differences between hubs and switches using Cisco Packet Tracer. It highlights how hubs broadcast packets to every connected device, while switches forward frames intelligently using MAC address learning. The project demonstrates why switches improve confidentiality, performance, and protection against packet sniffing.
 
 ## 🎯 Objectives
-- Identify common vulnerabilities in IoT devices and networks.  
-- Simulate cyberattacks targeting IoT systems.  
-- Apply mitigation techniques to reduce risks.  
-- Propose best practices for securing IoT environments.  
+- Demonstrate how hubs broadcast all packets to every connected device.
+- Show how switches learn MAC addresses and forward frames intelligently.
+- Analyze packet movement using Cisco Packet Tracer simulation mode.
+- Explain cybersecurity implications such as packet sniffing risks.
+- Introduce basic configurations including IP addressing and interface control.
 
 ## 🛡️ Strategies Applied
 **Device-Level Security**  
@@ -26,7 +23,33 @@ This project explores the security challenges of Internet of Things (IoT) ecosys
 - Data minimization and tokenization  
 - Regular backups  
 - IoT security by design principles  
-- Legal and regulatory compliance approaches  
+- Legal and regulatory compliance approaches
+
+- Key Features
+
+Hub Behavior Analysis
+
+Broadcasts all traffic across the network
+
+No segmentation or filtering
+
+High vulnerability to sniffing attacks
+
+Switch Behavior Analysis
+
+Learns MAC addresses dynamically
+
+Forwards frames only to their intended recipients
+
+Improves confidentiality and network performance
+
+Traffic Simulation
+
+Visual packet flow analysis
+
+Event inspection using simulation mode
+
+MAC table verification for switching logic 
 
 ## 🔧 Technologies & Tools
 - Wireshark (traffic analysis)  
@@ -36,22 +59,23 @@ This project explores the security challenges of Internet of Things (IoT) ecosys
 
 ## 📸 Project Presentation  
 
-<p align="center">
-  <img src="images/IoT_Slide1_Cover.png" alt="IoT Security: Mitigating Cybersecurity Threats in Connected Devices" width="80%" />
-</p>  
+### Network Topology Overview
+![Network Topology](network-topology-overview.png)
 
-<p align="center">
-  <img src="images/IoT_Slide2_Threats.png" alt="Common IoT Cybersecurity Threats and Vulnerabilities" width="45%" />
-  <img 
-src="images/IoT_Slide3_Strategies.png" alt="Proposed Strategies for Mitigating IoT Cybersecurity Threats" width="45%" />
-  <img
-src="images/IoT_Slide4_Solutions.png" alt="Proposed Strategies for Mitigating IoT Cybersecurity Threats" width="45%" />
-</p>  
+### Device Configuration Interface
+![Device Configuration](device-configuration-interface.png)
 
-📄 [**Download Full IoT Security Presentation (PDF)**](assets/IoT_Security_Presentation.pdf)
+### Packet Simulation View
+![Packet Simulation](packet-simulation-view.png)
+
+### Switch MAC Table Output
+![MAC Table](switch-mac-table-output.png)
+
+### Hub vs Switch Traffic Flow Comparison
+![Traffic Flow](hub-vs-switch-traffic-flow.png)
 
 ## 📚 Use Case
-This project was developed as part of an academic research initiative under the **Computer Science Department** at the **Petroleum Training Institute (PTI), Nigeria**. It demonstrates the application of layered security strategies to protect IoT ecosystems across device, network, and data layers.
+This project is designed for networking and cybersecurity learners who want to understand how traffic is handled by hubs versus switches. It reinforces fundamental concepts such as broadcast domains, MAC learning, packet visibility, and the security impact of device selection within a network.
 
 ## 📄 License
-For educational demonstration and academic research.
+For educational demonstration and cybersecurity awareness.
