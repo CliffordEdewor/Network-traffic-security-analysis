@@ -25,11 +25,6 @@ This project examines the traffic-handling and security differences between hubs
 - MAC table verification for switching logic 
 
 ## 🔧 Technologies & Tools
-- Wireshark (traffic analysis)  
-- Snort IDS  
-- IoT device emulators/testbeds  
-- Secure protocols and configurations
-  
 - Cisco Packet Tracer
 - Layer 2 Switch
 - Hub
