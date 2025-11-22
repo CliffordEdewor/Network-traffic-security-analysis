@@ -8,57 +8,35 @@ This project examines the traffic-handling and security differences between hubs
 - Explain cybersecurity implications such as packet sniffing risks.
 - Introduce basic configurations including IP addressing and interface control.
 
-## 🛡️ Strategies Applied
-**Device-Level Security**  
-- Strong authentication mechanisms  
-- Data encryption and secure firmware updates  
-- Physical device hardening  
+- ## ⚡ Key Features
+**Hub Behavior Analysis** 
+- Broadcasts all traffic across the network
+- No segmentation or filtering
+- High vulnerability to sniffing attacks
 
-**Network-Level Security**  
-- Network segmentation  
-- Firewalls and Intrusion Detection Systems (IDS)  
-- Secure communication protocols (TLS/SSL, MQTT with authentication)  
+**Switch Behavior Analysis**
+- Learns MAC addresses dynamically
+- Forwards frames only to their intended recipients
+- Improves confidentiality and network performance
 
-**Data Security**  
-- Data minimization and tokenization  
-- Regular backups  
-- IoT security by design principles  
-- Legal and regulatory compliance approaches
-
-- Key Features
-
-Hub Behavior Analysis
-
-Broadcasts all traffic across the network
-
-No segmentation or filtering
-
-High vulnerability to sniffing attacks
-
-Switch Behavior Analysis
-
-Learns MAC addresses dynamically
-
-Forwards frames only to their intended recipients
-
-Improves confidentiality and network performance
-
-Traffic Simulation
-
-Visual packet flow analysis
-
-Event inspection using simulation mode
-
-MAC table verification for switching logic 
+**Traffic Simulation**
+- Visual packet flow analysis
+- Event inspection using simulation mode
+- MAC table verification for switching logic 
 
 ## 🔧 Technologies & Tools
 - Wireshark (traffic analysis)  
 - Snort IDS  
 - IoT device emulators/testbeds  
-- Secure protocols and configurations  
-
-## 📸 Project Presentation  
-
+- Secure protocols and configurations
+  
+- Cisco Packet Tracer
+- Layer 2 Switch
+- Hub
+- Router (optional for extended configurations)
+- Basic CLI commands in exec, privilege, and global configuration modes  
+ 
+## 📸 Screenshots & Results
 ### Network Topology Overview
 ![Network Topology](network-topology-overview.png)
 
