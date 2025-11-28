@@ -39,7 +39,7 @@ This project examines the traffic-handling and security differences between hubs
 ![Device Configuration](images/device-configuration-interface.png)
 
 ### Packet Simulation View
-![Packet Simulation](images/packet-simulation-view.png)
+![Packet Simulation](images/packet-tracer-device-tools.png)
 
 ### Switch MAC Table Output
 ![MAC Table](images/switch-mac-table-output.png)
