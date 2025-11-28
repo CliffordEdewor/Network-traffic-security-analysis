@@ -33,7 +33,7 @@ This project examines the traffic-handling and security differences between hubs
  
 ## 📸 Screenshots & Results
 ### Network Topology Overview
-![Network Topology](network-topology-overview)
+![Network Topology](network-topology-overview.png)
 
 ### Device Configuration Interface
 ![Device Configuration](device-configuration-interface.png)
