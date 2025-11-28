@@ -33,19 +33,19 @@ This project examines the traffic-handling and security differences between hubs
  
 ## 📸 Screenshots & Results
 ### Network Topology Overview
-![Network Topology](network-topology-overview.png)
+![Network Topology](images/network-topology-overview.png)
 
 ### Device Configuration Interface
-![Device Configuration](device-configuration-interface.png)
+![Device Configuration](images/device-configuration-interface.png)
 
 ### Packet Simulation View
-![Packet Simulation](packet-simulation-view.png)
+![Packet Simulation](images/packet-simulation-view.png)
 
 ### Switch MAC Table Output
-![MAC Table](switch-mac-table-output.png)
+![MAC Table](images/switch-mac-table-output.png)
 
 ### Hub vs Switch Traffic Flow Comparison
-![Traffic Flow](hub-vs-switch-traffic-flow.png)
+![Traffic Flow](images/hub-vs-switch-traffic-flow.png)
 
 ## 📚 Use Case
 This project is designed for networking and cybersecurity learners who want to understand how traffic is handled by hubs versus switches. It reinforces fundamental concepts such as broadcast domains, MAC learning, packet visibility, and the security impact of device selection within a network.
