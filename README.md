@@ -51,4 +51,4 @@ This project examines the traffic-handling and security differences between hubs
 This project is designed for networking and cybersecurity learners who want to understand how traffic is handled by hubs versus switches. It reinforces fundamental concepts such as broadcast domains, MAC learning, packet visibility, and the security impact of device selection within a network.
 
 ## 📄 License
-For educational demonstration and cybersecurity awareness.
+This project is intended for educational demonstration, academic research, and portfolio presentation purposes.
