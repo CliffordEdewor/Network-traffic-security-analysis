@@ -1,7 +1,7 @@
 # Network-traffic-security-analysis
-This project presents a Cisco Packet Tracer simulation I developed to demonstrate the security and operational differences between Ethernet hubs and switches. It was created during the ICT YEP Innovation Hub Computer Networking Training Programme delivered by the Delta State Government.
+This project presents a Cisco Packet Tracer simulation I developed to demonstrate the security and operational differences between Ethernet hubs and switches. It was created during the Computer Networking track of the ICT Youth Empowerment Programme (YEP) Innovation Hub, delivered by the Delta State Government.
 
-During networking sessions, many trainees found it difficult to understand the practical differences between Ethernet hubs and switches through theoretical explanations alone. To reinforce these concepts, I designed and delivered a live Cisco Packet Tracer demonstration illustrating packet broadcasting, MAC address learning, switching behaviour, and packet visibility. The practical simulation helped participants better understand the security implications of hub- and switch-based networks through a visual, hands-on demonstration.
+During networking sessions, many trainees found it difficult to understand the practical differences between Ethernet hubs and switches through theoretical explanations alone. To reinforce these concepts, I designed and delivered a live Cisco Packet Tracer demonstration illustrating packet broadcasting, MAC address learning, switching behaviour, and packet visibility. The practical simulation helped participants better understand the security implications of hub- and switch-based networks through a visual, hands-on simulation.
 
 ---
 
@@ -45,10 +45,10 @@ During networking sessions, many trainees found it difficult to understand the p
 Understanding the behavioural differences between hubs and switches is fundamental to network security.
 
 This simulation demonstrates how:
-- hubs broadcast traffic to every connected device,
-- switches reduce unnecessary packet exposure,
-- MAC address learning improves confidentiality,
-- proper network segmentation reduces packet sniffing opportunities.
+- Hubs broadcast traffic to every connected device.
+- Switches reduce unnecessary packet exposure.
+- MAC address learning improves confidentiality.
+- Proper network segmentation reduces packet sniffing opportunities.
 
 ---
  
@@ -74,9 +74,9 @@ Demonstrates how hubs broadcast traffic to all connected devices, while switches
 ---
 
 ## ✅ Key Learning Outcomes
-- Demonstrated practical understanding of Layer 2 switching.
+- Demonstrated a practical understanding of Layer 2 switching.
 - Visualized MAC address learning.
-- Compared packet visibility in hub and switch environments.
+- Compared packet visibility in hub- and switch-based environments.
 - Explained packet sniffing risks using live simulation.
 - Reinforced cybersecurity concepts through hands-on networking demonstrations.
 
