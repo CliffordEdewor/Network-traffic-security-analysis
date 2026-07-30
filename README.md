@@ -1,5 +1,5 @@
 # Network-traffic-security-analysis
-This project presents a Cisco Packet Tracer simulation I developed to demonstrate the security and operational differences between Ethernet hubs and switches. It was created during the ICT YEP Innovation Hub Cybersecurity Training Programme organised by the Delta State Government.
+This project presents a Cisco Packet Tracer simulation I developed to demonstrate the security and operational differences between Ethernet hubs and switches. It was created during the ICT YEP Innovation Hub Networking Training Programme organised by the Delta State Government.
 
 During networking sessions, many trainees found it difficult to understand the practical differences between Ethernet hubs and switches through theoretical explanations alone. To reinforce these concepts, I designed and delivered a live Cisco Packet Tracer demonstration illustrating packet broadcasting, MAC address learning, switching behaviour, and packet visibility. The practical simulation helped participants better understand the security implications of hub- and switch-based networks through a visual, hands-on demonstration.
 
